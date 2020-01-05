@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LR decomposition", "LR decomposition\LR decomposition.vcxproj", "{762E7273-1C22-488F-89B5-941E0A8F8745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{762E7273-1C22-488F-89B5-941E0A8F8745}.Debug|x64.ActiveCfg = Debug|x64
+		{762E7273-1C22-488F-89B5-941E0A8F8745}.Debug|x64.Build.0 = Debug|x64
+		{762E7273-1C22-488F-89B5-941E0A8F8745}.Debug|x86.ActiveCfg = Debug|Win32
+		{762E7273-1C22-488F-89B5-941E0A8F8745}.Debug|x86.Build.0 = Debug|Win32
+		{762E7273-1C22-488F-89B5-941E0A8F8745}.Release|x64.ActiveCfg = Release|x64
+		{762E7273-1C22-488F-89B5-941E0A8F8745}.Release|x64.Build.0 = Release|x64
+		{762E7273-1C22-488F-89B5-941E0A8F8745}.Release|x86.ActiveCfg = Release|Win32
+		{762E7273-1C22-488F-89B5-941E0A8F8745}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0842025-5C32-4EEA-8623-92D02B7335BA}
+	EndGlobalSection
+EndGlobal
